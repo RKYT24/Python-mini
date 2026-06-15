@@ -1,0 +1,51 @@
+ProductID,SKU,ProductName,Category,Supplier,Warehouse,Quantity,ReorderLevel,UnitCost,SellingPrice,LastRestockDate,Status
+1001,ELC-001,Wireless Mouse,Electronics,TechSource,Warehouse-A,120,25,8.5,19.99,2026-05-10,Active
+1002,ELC-002,Mechanical Keyboard,Electronics,TechSource,Warehouse-A,85,20,25,59.99,2026-05-08,Active
+1003,ELC-003,27 Inch Monitor,Electronics,DisplayWorld,Warehouse-B,40,10,110,179.99,2026-05-15,Active
+1004,ELC-004,USB-C Hub,Electronics,TechSource,Warehouse-A,200,50,12,29.99,2026-05-11,Active
+1005,ELC-005,Webcam HD,Electronics,VisionTech,Warehouse-B,55,15,18.5,39.99,2026-05-18,Active
+1006,FUR-001,Office Chair,Furniture,FurniCo,Warehouse-C,30,8,65,149.99,2026-05-20,Active
+1007,FUR-002,Standing Desk,Furniture,FurniCo,Warehouse-C,18,5,180,349.99,2026-05-12,Active
+1008,FUR-003,Bookshelf,Furniture,WoodWorks,Warehouse-C,45,10,45,89.99,2026-05-07,Active
+1009,FUR-004,Filing Cabinet,Furniture,OfficeStore,Warehouse-C,22,6,75,139.99,2026-05-16,Active
+1010,FUR-005,Conference Table,Furniture,WoodWorks,Warehouse-C,8,3,250,499.99,2026-05-05,Active
+1011,STA-001,Ballpoint Pens Pack,Stationery,PaperPlus,Warehouse-D,500,100,1.2,3.99,2026-05-02,Active
+1012,STA-002,A4 Paper Ream,Stationery,PaperPlus,Warehouse-D,350,80,2.8,6.99,2026-05-14,Active
+1013,STA-003,Sticky Notes,Stationery,OfficeBasics,Warehouse-D,280,60,0.8,2.49,2026-05-10,Active
+1014,STA-004,Stapler,Stationery,OfficeBasics,Warehouse-D,90,20,3.5,8.99,2026-05-06,Active
+1015,STA-005,Notebook A5,Stationery,PaperPlus,Warehouse-D,220,50,1.9,4.99,2026-05-17,Active
+1016,CLT-001,Safety Gloves,Clothing,SafeWear,Warehouse-E,160,40,3,7.99,2026-05-09,Active
+1017,CLT-002,Reflective Vest,Clothing,SafeWear,Warehouse-E,95,25,5.5,14.99,2026-05-03,Active
+1018,CLT-003,Work Jacket,Clothing,IndustrialGear,Warehouse-E,60,15,18,39.99,2026-05-11,Active
+1019,CLT-004,Steel Toe Boots,Clothing,IndustrialGear,Warehouse-E,48,12,35,79.99,2026-05-19,Active
+1020,CLT-005,Baseball Cap,Clothing,StyleCorp,Warehouse-E,130,30,4,11.99,2026-05-01,Active
+1021,TOO-001,Hammer,Tools,ToolMasters,Warehouse-F,75,20,6,14.99,2026-05-08,Active
+1022,TOO-002,Screwdriver Set,Tools,ToolMasters,Warehouse-F,65,15,8.5,19.99,2026-05-13,Active
+1023,TOO-003,Power Drill,Tools,BuildPro,Warehouse-F,28,8,45,99.99,2026-05-15,Active
+1024,TOO-004,Adjustable Wrench,Tools,ToolMasters,Warehouse-F,90,20,5,12.99,2026-05-18,Active
+1025,TOO-005,Tape Measure,Tools,BuildPro,Warehouse-F,140,35,2.5,7.99,2026-05-04,Active
+1026,ELC-006,Laptop Stand,Electronics,TechSource,Warehouse-A,110,25,14,34.99,2026-05-12,Active
+1027,ELC-007,External SSD 1TB,Electronics,StorageTech,Warehouse-B,35,10,65,119.99,2026-05-21,Active
+1028,ELC-008,Bluetooth Speaker,Electronics,AudioMax,Warehouse-B,75,20,22,49.99,2026-05-17,Active
+1029,ELC-009,Noise Cancelling Headphones,Electronics,AudioMax,Warehouse-B,45,12,55,129.99,2026-05-20,Active
+1030,ELC-010,Smartphone Stand,Electronics,TechSource,Warehouse-A,180,40,2.5,9.99,2026-05-11,Active
+1031,FOD-001,Coffee Beans 1kg,Food,BrewHouse,Warehouse-G,95,20,8,17.99,2026-05-06,Active
+1032,FOD-002,Green Tea Pack,Food,HealthyLeaf,Warehouse-G,130,30,2,5.99,2026-05-07,Active
+1033,FOD-003,Protein Bars Box,Food,NutriLife,Warehouse-G,85,25,10,24.99,2026-05-14,Active
+1034,FOD-004,Bottled Water 24pk,Food,FreshSpring,Warehouse-G,220,60,3.5,8.99,2026-05-18,Active
+1035,FOD-005,Energy Drink Case,Food,PowerFuel,Warehouse-G,65,20,9,19.99,2026-05-09,Active
+1036,MED-001,First Aid Kit,Medical,HealthSupply,Warehouse-H,45,10,15,34.99,Active,2026-05-15
+1037,MED-002,Disposable Masks Box,Medical,HealthSupply,Warehouse-H,300,75,2.5,6.99,2026-05-10,Active
+1038,MED-003,Hand Sanitizer 500ml,Medical,CleanCare,Warehouse-H,180,40,1.8,5.49,2026-05-13,Active
+1039,MED-004,Thermometer Digital,Medical,CleanCare,Warehouse-H,55,15,6,14.99,2026-05-17,Active
+1040,MED-005,Bandage Roll,Medical,HealthSupply,Warehouse-H,210,50,0.75,2.49,2026-05-19,Active
+1041,ELC-011,Gaming Mouse,Electronics,TechSource,Warehouse-A,12,20,15,39.99,2026-05-01,Low Stock
+1042,ELC-012,Graphics Tablet,Electronics,CreativeTech,Warehouse-B,4,5,70,149.99,2026-04-25,Low Stock
+1043,FUR-006,Visitor Chair,Furniture,FurniCo,Warehouse-C,0,10,28,69.99,2026-04-10,Out of Stock
+1044,STA-006,Whiteboard Marker Set,Stationery,OfficeBasics,Warehouse-D,18,20,2,5.99,2026-04-29,Low Stock
+1045,TOO-006,Cordless Impact Driver,Tools,BuildPro,Warehouse-F,6,8,55,129.99,2026-05-03,Low Stock
+1046,FOD-006,Instant Coffee Jar,Food,BrewHouse,Warehouse-G,0,15,4.5,10.99,2026-04-20,Out of Stock
+1047,MED-006,Medical Gloves Box,Medical,HealthSupply,Warehouse-H,10,25,3.2,8.99,2026-04-28,Low Stock
+1048,CLT-006,Rain Jacket,Clothing,StyleCorp,Warehouse-E,14,20,16,39.99,2026-05-05,Low Stock
+1049,ELC-013,Wireless Charger,Electronics,TechSource,Warehouse-A,95,20,7,24.99,2026-05-16,Active
+1050,ELC-014,Portable Projector,Electronics,VisionTech,Warehouse-B,16,5,120,249.99,2026-05-22,Active

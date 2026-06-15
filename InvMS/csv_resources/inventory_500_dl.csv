@@ -1,0 +1,500 @@
+ProductID,SKU,ProductName,Category,Supplier,Warehouse,Quantity,ReorderLevel,UnitCost,SellingPrice,LastRestockDate,Status
+1001,SKU-0001,USB Hub 1,Automotive,Global Traders,Warehouse-A,808,35,355.22,808.82,2025-04-22,Active
+1003,SKU-0003,Coffee Beans 3,Tools,AutoParts Ltd,Warehouse-A,815,50,2.24,5.47,2026-03-07,Active
+1004,SKU-0004,Coffee Beans 4,Clothing,AutoParts Ltd,Warehouse-E,895,23,344.3,544.25,2026-01-26,Active
+1005,SKU-0005,First Aid Kit 5,Medical,BuildPro,Warehouse-A,334,59,187.71,228.45,2025-10-01,Active
+1006,SKU-0006,Safety Gloves 6,Automotive,Global Traders,Warehouse-D,771,45,127.28,167.92,2025-04-10,Active
+1007,SKU-0007,Desk Lamp 7,Food,TechSource,Warehouse-B,758,70,162.08,208.67,2026-02-27,Active
+1008,SKU-0008,Jacket 8,Tools,TechSource,Warehouse-D,15,32,33.94,83.26,2025-08-09,Low Stock
+1009,SKU-0009,Speaker 9,Stationery,AutoParts Ltd,Warehouse-E,321,16,142.83,296.37,2025-11-30,Active
+1010,SKU-0010,Speaker 10,Electronics,AutoParts Ltd,Warehouse-D,943,34,472.71,629.46,2025-02-21,Active
+1011,SKU-0011,Speaker 11,Medical,BuildPro,Warehouse-B,709,47,250.44,600.73,2025-10-05,Active
+1012,SKU-0012,Mechanical Keyboard 12,Medical,HealthSupply,Warehouse-A,757,79,211.9,380.27,2025-01-20,Active
+1013,SKU-0013,First Aid Kit 13,Electronics,PaperPlus,Warehouse-B,73,75,326.25,479.74,2025-10-11,Low Stock
+1014,SKU-0014,Notebook 14,Electronics,FurniCo,Warehouse-D,68,85,248.42,464.31,2026-03-01,Low Stock
+1015,SKU-0015,Jacket 15,Clothing,SafeWear,Warehouse-E,520,13,16.3,28.91,2026-05-20,Active
+1016,SKU-0016,Mechanical Keyboard 16,Clothing,SafeWear,Warehouse-E,889,38,412.58,912.86,2026-05-24,Active
+1017,SKU-0017,Medical Mask 17,Tools,Global Traders,Warehouse-B,178,66,417.07,704.86,2025-06-19,Active
+1018,SKU-0018,Medical Mask 18,Electronics,HealthSupply,Warehouse-D,960,20,438.19,583.32,2026-03-14,Active
+1019,SKU-0019,Office Chair 19,Food,FurniCo,Warehouse-E,723,93,379.05,723.86,2026-04-06,Active
+1020,SKU-0020,Wireless Mouse 20,Food,PaperPlus,Warehouse-E,578,42,410.02,815.14,2025-01-16,Active
+1021,SKU-0021,Wireless Mouse 21,Stationery,Global Traders,Warehouse-B,663,20,430.02,796.01,2025-07-07,Active
+1022,SKU-0022,Tool Box 22,Tools,TechSource,Warehouse-D,5,98,425.74,865.97,2025-03-10,Low Stock
+1023,SKU-0023,Safety Gloves 23,Furniture,TechSource,Warehouse-C,602,14,415.04,549.72,2026-04-24,Active
+1024,SKU-0024,Jacket 24,Clothing,AutoParts Ltd,Warehouse-D,145,91,55.14,104.21,2025-05-12,Active
+1025,SKU-0025,Tool Box 25,Electronics,Global Traders,Warehouse-B,742,54,62.03,122.48,2026-04-28,Active
+1026,SKU-0026,Printer Paper 26,Automotive,PaperPlus,Warehouse-D,329,64,452.99,782.14,2025-08-29,Active
+1027,SKU-0027,Monitor 27,Stationery,AutoParts Ltd,Warehouse-C,75,32,361.38,710.31,2025-05-08,Active
+1028,SKU-0028,Wireless Mouse 28,Clothing,HealthSupply,Warehouse-B,812,45,167.4,230.14,2025-10-16,Active
+1029,SKU-0029,Car Battery 29,Furniture,SafeWear,Warehouse-B,456,58,322.43,571.53,2026-04-09,Active
+1030,SKU-0030,Safety Gloves 30,Medical,TechSource,Warehouse-D,497,11,68.73,101.7,2025-10-11,Active
+1031,SKU-0031,Hammer 31,Furniture,BuildPro,Warehouse-A,173,48,357.53,809.17,2025-11-02,Active
+1032,SKU-0032,Jacket 32,Food,AutoParts Ltd,Warehouse-C,976,55,199.65,326.37,2025-01-31,Active
+1033,SKU-0033,Headphones 33,Automotive,HealthSupply,Warehouse-B,905,94,480.16,703.08,2026-01-01,Active
+1034,SKU-0034,Coffee Beans 34,Medical,BuildPro,Warehouse-B,796,78,265.36,353.58,2026-01-12,Active
+1035,SKU-0035,Car Battery 35,Automotive,TechSource,Warehouse-C,329,75,266.33,530.55,2025-10-11,Active
+1036,SKU-0036,Office Chair 36,Automotive,AutoParts Ltd,Warehouse-B,729,21,56.98,110.98,2025-10-08,Active
+1037,SKU-0037,Wireless Mouse 37,Medical,Global Traders,Warehouse-D,688,31,407.44,785.31,2025-01-07,Active
+1038,SKU-0038,USB Hub 38,Tools,BuildPro,Warehouse-E,360,39,156.08,203.53,2026-04-07,Active
+1039,SKU-0039,Safety Gloves 39,Automotive,BuildPro,Warehouse-E,246,73,202.96,403.75,2026-05-22,Active
+1040,SKU-0040,Jacket 40,Electronics,PaperPlus,Warehouse-C,651,41,459.78,1107.47,2025-03-12,Active
+1041,SKU-0041,Medical Mask 41,Furniture,BuildPro,Warehouse-B,768,82,223.33,490.57,2025-08-20,Active
+1042,SKU-0042,Desk Lamp 42,Clothing,AutoParts Ltd,Warehouse-D,754,11,452.5,1128.59,2026-03-30,Active
+1043,SKU-0043,Tool Box 43,Food,TechSource,Warehouse-C,383,53,425.7,661.23,2025-09-03,Active
+1044,SKU-0044,Coffee Beans 44,Tools,SafeWear,Warehouse-A,254,12,105.31,186.28,2025-12-22,Active
+1045,SKU-0045,First Aid Kit 45,Medical,AutoParts Ltd,Warehouse-B,951,36,250.92,519.55,2025-10-19,Active
+1046,SKU-0046,USB Hub 46,Stationery,TechSource,Warehouse-A,484,96,275.18,342.5,2025-10-06,Active
+1047,SKU-0047,Coffee Beans 47,Tools,AutoParts Ltd,Warehouse-D,933,94,476.38,794.03,2025-12-09,Active
+1048,SKU-0048,Speaker 48,Tools,PaperPlus,Warehouse-E,295,32,78.12,176.06,2026-01-19,Active
+1049,SKU-0049,Coffee Beans 49,Clothing,BuildPro,Warehouse-D,403,52,62.99,101.22,2026-01-10,Active
+1050,SKU-0050,Speaker 50,Stationery,TechSource,Warehouse-E,642,43,411.08,667.37,2026-02-11,Active
+1051,SKU-0051,Car Battery 51,Clothing,AutoParts Ltd,Warehouse-B,435,16,496.47,1131.8,2025-07-25,Active
+1052,SKU-0052,Mechanical Keyboard 52,Automotive,HealthSupply,Warehouse-D,35,95,164.58,252.93,2026-02-23,Low Stock
+1053,SKU-0053,Headphones 53,Furniture,PaperPlus,Warehouse-C,956,78,261.94,556.12,2025-01-14,Active
+1054,SKU-0054,Monitor 54,Automotive,FurniCo,Warehouse-C,840,12,218.01,483.58,2025-07-08,Active
+1055,SKU-0055,Speaker 55,Food,Global Traders,Warehouse-B,81,27,493.1,1199.25,2025-07-02,Active
+1056,SKU-0056,Printer Paper 56,Medical,Global Traders,Warehouse-D,291,35,231.54,374.4,2025-09-08,Active
+1057,SKU-0057,Wireless Mouse 57,Medical,AutoParts Ltd,Warehouse-C,119,74,327.41,490.39,2026-01-11,Active
+1058,SKU-0058,Desk Lamp 58,Furniture,FurniCo,Warehouse-D,116,34,87.73,179.31,2025-03-27,Active
+1059,SKU-0059,Wireless Mouse 59,Clothing,BuildPro,Warehouse-D,941,59,231.29,460.44,2025-11-04,Active
+1060,SKU-0060,Safety Gloves 60,Clothing,PaperPlus,Warehouse-D,856,50,404.54,926.03,2025-04-17,Active
+1061,SKU-0061,USB Hub 61,Electronics,Global Traders,Warehouse-A,403,28,118.12,156.93,2025-10-20,Active
+1062,SKU-0062,Speaker 62,Furniture,TechSource,Warehouse-A,952,23,409.03,874.52,2025-03-31,Active
+1063,SKU-0063,Safety Gloves 63,Electronics,AutoParts Ltd,Warehouse-E,148,13,127.63,286.85,2025-07-16,Active
+1064,SKU-0064,Medical Mask 64,Clothing,FurniCo,Warehouse-D,915,36,406.7,988.1,2025-12-04,Active
+1065,SKU-0065,Speaker 65,Clothing,BuildPro,Warehouse-C,366,70,212.33,347.63,2026-01-02,Active
+1066,SKU-0066,USB Hub 66,Stationery,Global Traders,Warehouse-A,127,96,260.2,321.17,2026-04-19,Active
+1067,SKU-0067,Printer Paper 67,Food,PaperPlus,Warehouse-A,203,42,372.56,924.01,2025-03-06,Active
+1068,SKU-0068,Car Battery 68,Food,HealthSupply,Warehouse-D,234,62,330.34,537.84,2025-12-08,Active
+1069,SKU-0069,Jacket 69,Tools,AutoParts Ltd,Warehouse-C,463,40,419.97,903.95,2025-07-09,Active
+1070,SKU-0070,Car Battery 70,Tools,FurniCo,Warehouse-C,48,68,284.53,447.5,2025-05-11,Low Stock
+1071,SKU-0071,Car Battery 71,Clothing,SafeWear,Warehouse-A,685,22,143.37,325.76,2026-05-22,Active
+1072,SKU-0072,Hammer 72,Clothing,PaperPlus,Warehouse-A,237,40,367.43,801.32,2025-12-06,Active
+1073,SKU-0073,Headphones 73,Furniture,Global Traders,Warehouse-C,569,36,212.97,443.63,2026-02-18,Active
+1074,SKU-0074,Hammer 74,Electronics,HealthSupply,Warehouse-B,646,17,258.29,344.57,2025-02-10,Active
+1075,SKU-0075,Coffee Beans 75,Electronics,Global Traders,Warehouse-C,387,57,480.58,1038.94,2025-02-01,Active
+1076,SKU-0076,Monitor 76,Food,BuildPro,Warehouse-B,257,94,286.06,523.78,2025-04-22,Active
+1077,SKU-0077,Car Battery 77,Furniture,PaperPlus,Warehouse-C,614,62,496.22,1198.59,2025-10-22,Active
+1078,SKU-0078,Medical Mask 78,Stationery,FurniCo,Warehouse-E,938,41,288.57,483.87,2025-09-19,Active
+1079,SKU-0079,Office Chair 79,Food,TechSource,Warehouse-D,16,18,475.37,1033.56,2025-05-31,Low Stock
+1080,SKU-0080,Monitor 80,Electronics,TechSource,Warehouse-B,701,10,374.91,450.13,2025-08-18,Active
+1081,SKU-0081,Desk Lamp 81,Medical,BuildPro,Warehouse-C,591,58,187.81,404.75,2025-09-06,Active
+1082,SKU-0082,Mechanical Keyboard 82,Tools,TechSource,Warehouse-D,224,98,438.92,913.42,2025-10-03,Active
+1083,SKU-0083,First Aid Kit 83,Electronics,SafeWear,Warehouse-E,287,45,404.79,561.28,2025-11-06,Active
+1084,SKU-0084,Car Battery 84,Food,AutoParts Ltd,Warehouse-C,294,54,129.06,240.97,2026-03-31,Active
+1085,SKU-0085,Printer Paper 85,Medical,PaperPlus,Warehouse-A,757,81,469.63,1006.21,2026-01-22,Active
+1086,SKU-0086,Printer Paper 86,Medical,BuildPro,Warehouse-D,243,84,222.28,445.1,2025-10-15,Active
+1087,SKU-0087,Speaker 87,Medical,Global Traders,Warehouse-E,839,18,160.08,389.1,2025-09-05,Active
+1088,SKU-0088,USB Hub 88,Electronics,FurniCo,Warehouse-C,923,17,364.03,722.51,2026-01-07,Active
+1089,SKU-0089,Desk Lamp 89,Stationery,PaperPlus,Warehouse-D,680,51,227.03,472.91,2025-01-31,Active
+1090,SKU-0090,Wireless Mouse 90,Furniture,FurniCo,Warehouse-E,482,91,343.12,640.55,2026-01-22,Active
+1091,SKU-0091,Headphones 91,Tools,SafeWear,Warehouse-B,754,53,89.48,150.78,2026-02-20,Active
+1092,SKU-0092,Car Battery 92,Clothing,AutoParts Ltd,Warehouse-B,364,55,86.04,185.25,2025-12-05,Active
+1093,SKU-0093,Monitor 93,Electronics,PaperPlus,Warehouse-E,346,46,418.08,834.5,2025-01-28,Active
+1094,SKU-0094,First Aid Kit 94,Automotive,Global Traders,Warehouse-E,50,54,492.53,793.57,2026-01-27,Low Stock
+1095,SKU-0095,USB Hub 95,Tools,AutoParts Ltd,Warehouse-D,982,86,370.31,787.73,2025-04-04,Active
+1096,SKU-0096,Desk Lamp 96,Stationery,HealthSupply,Warehouse-C,539,22,68.28,86.59,2025-11-03,Active
+1097,SKU-0097,Desk Lamp 97,Stationery,BuildPro,Warehouse-B,423,51,458.83,1063.8,2025-03-26,Active
+1098,SKU-0098,Mechanical Keyboard 98,Clothing,AutoParts Ltd,Warehouse-C,58,15,271.17,505.78,2025-12-12,Active
+1099,SKU-0099,First Aid Kit 99,Stationery,AutoParts Ltd,Warehouse-A,812,71,336.49,530.53,2025-06-12,Active
+1100,SKU-0100,Mechanical Keyboard 100,Clothing,Global Traders,Warehouse-A,723,20,138.98,167.73,2025-10-13,Active
+1101,SKU-0101,Notebook 101,Automotive,BuildPro,Warehouse-E,305,39,205.22,423.16,2025-03-12,Active
+1102,SKU-0102,Monitor 102,Automotive,TechSource,Warehouse-C,334,25,3.49,6.98,2025-03-10,Active
+1103,SKU-0103,Jacket 103,Electronics,HealthSupply,Warehouse-E,918,74,232.78,574.76,2025-04-01,Active
+1104,SKU-0104,Desk Lamp 104,Medical,AutoParts Ltd,Warehouse-A,652,81,256.09,448.22,2025-07-07,Active
+1105,SKU-0105,USB Hub 105,Automotive,TechSource,Warehouse-C,480,53,146.86,251.39,2025-08-08,Active
+1106,SKU-0106,USB Hub 106,Food,TechSource,Warehouse-B,14,90,315.44,526.02,2026-03-14,Low Stock
+1107,SKU-0107,Wireless Mouse 107,Furniture,Global Traders,Warehouse-B,314,58,55.91,92.67,2025-04-01,Active
+1108,SKU-0108,Coffee Beans 108,Clothing,FurniCo,Warehouse-E,862,91,262.08,411.53,2026-02-08,Active
+1109,SKU-0109,Tool Box 109,Clothing,Global Traders,Warehouse-C,145,43,272.81,450.75,2026-03-03,Active
+1110,SKU-0110,Medical Mask 110,Medical,BuildPro,Warehouse-C,150,39,199.55,304.2,2025-11-25,Active
+1111,SKU-0111,Car Battery 111,Food,BuildPro,Warehouse-C,362,99,216.61,408.83,2026-05-26,Active
+1112,SKU-0112,Wireless Mouse 112,Automotive,AutoParts Ltd,Warehouse-E,358,16,464.17,681.45,2026-01-28,Active
+1113,SKU-0113,USB Hub 113,Tools,TechSource,Warehouse-E,676,37,205.67,425.43,2025-05-10,Active
+1114,SKU-0114,USB Hub 114,Medical,AutoParts Ltd,Warehouse-D,727,81,328.15,611.65,2025-11-06,Active
+1115,SKU-0115,Car Battery 115,Electronics,HealthSupply,Warehouse-C,999,18,311.71,683.09,2025-04-11,Active
+1116,SKU-0116,Coffee Beans 116,Automotive,SafeWear,Warehouse-E,422,17,308.11,643.5,2025-05-08,Active
+1117,SKU-0117,Mechanical Keyboard 117,Medical,AutoParts Ltd,Warehouse-A,772,31,439.18,876.39,2025-02-28,Active
+1118,SKU-0118,Monitor 118,Automotive,PaperPlus,Warehouse-A,408,67,468.86,925.19,2025-10-31,Active
+1119,SKU-0119,Desk Lamp 119,Automotive,AutoParts Ltd,Warehouse-B,429,17,248.11,433.44,2025-06-08,Active
+1120,SKU-0120,Desk Lamp 120,Furniture,BuildPro,Warehouse-D,875,10,82.31,169.51,2025-08-25,Active
+1121,SKU-0121,Car Battery 121,Stationery,BuildPro,Warehouse-C,893,86,268.37,650.45,2026-04-23,Active
+1122,SKU-0122,Monitor 122,Medical,TechSource,Warehouse-E,874,12,334.9,423.47,2025-08-23,Active
+1123,SKU-0123,First Aid Kit 123,Clothing,FurniCo,Warehouse-C,822,71,499.07,1191.12,2025-08-28,Active
+1124,SKU-0124,Medical Mask 124,Stationery,BuildPro,Warehouse-A,613,81,101.18,247.56,2026-02-13,Active
+1125,SKU-0125,USB Hub 125,Electronics,AutoParts Ltd,Warehouse-C,765,31,443.45,931.64,2026-03-18,Active
+1126,SKU-0126,Car Battery 126,Food,Global Traders,Warehouse-C,5,39,64.38,107.94,2025-07-19,Low Stock
+1127,SKU-0127,Coffee Beans 127,Furniture,PaperPlus,Warehouse-D,591,61,333.6,726.35,2026-02-25,Active
+1128,SKU-0128,Medical Mask 128,Electronics,TechSource,Warehouse-B,206,70,236.19,321.27,2025-12-03,Active
+1129,SKU-0129,Medical Mask 129,Food,SafeWear,Warehouse-B,778,64,384.69,696.76,2026-03-06,Active
+1130,SKU-0130,Hammer 130,Automotive,AutoParts Ltd,Warehouse-A,963,93,283.42,673.55,2026-04-29,Active
+1131,SKU-0131,Medical Mask 131,Food,BuildPro,Warehouse-D,6,46,9.65,23.99,2025-07-21,Low Stock
+1132,SKU-0132,Jacket 132,Food,HealthSupply,Warehouse-E,812,26,115.96,206.48,2025-06-27,Active
+1133,SKU-0133,Medical Mask 133,Stationery,HealthSupply,Warehouse-B,9,71,241.85,528.06,2025-01-03,Low Stock
+1134,SKU-0134,Speaker 134,Medical,Global Traders,Warehouse-E,927,19,385.15,573.05,2026-02-03,Active
+1135,SKU-0135,Safety Gloves 135,Electronics,AutoParts Ltd,Warehouse-A,985,55,122.67,242.84,2025-06-29,Active
+1136,SKU-0136,Office Chair 136,Electronics,Global Traders,Warehouse-E,966,46,332.89,593.97,2026-01-02,Active
+1137,SKU-0137,USB Hub 137,Medical,FurniCo,Warehouse-B,399,38,270.18,617.26,2025-02-09,Active
+1138,SKU-0138,Coffee Beans 138,Automotive,FurniCo,Warehouse-A,410,73,123.33,307.43,2025-03-16,Active
+1139,SKU-0139,Notebook 139,Furniture,TechSource,Warehouse-D,26,84,261.47,320.94,2025-11-30,Low Stock
+1140,SKU-0140,First Aid Kit 140,Stationery,PaperPlus,Warehouse-E,895,80,456.59,888.0,2026-03-06,Active
+1141,SKU-0141,Headphones 141,Furniture,SafeWear,Warehouse-B,828,100,166.9,285.29,2025-02-25,Active
+1142,SKU-0142,Wireless Mouse 142,Food,PaperPlus,Warehouse-E,218,15,192.37,342.05,2025-07-06,Active
+1143,SKU-0143,Mechanical Keyboard 143,Automotive,AutoParts Ltd,Warehouse-A,342,72,165.19,203.82,2026-05-19,Active
+1144,SKU-0144,Medical Mask 144,Food,SafeWear,Warehouse-B,859,89,95.52,208.32,2026-02-16,Active
+1145,SKU-0145,Printer Paper 145,Furniture,Global Traders,Warehouse-C,690,50,262.21,376.89,2025-08-22,Active
+1146,SKU-0146,Hammer 146,Electronics,FurniCo,Warehouse-B,548,52,156.15,223.64,2025-05-13,Active
+1147,SKU-0147,Office Chair 147,Furniture,TechSource,Warehouse-C,289,42,144.06,281.37,2025-01-28,Active
+1148,SKU-0148,Wireless Mouse 148,Stationery,AutoParts Ltd,Warehouse-E,896,21,186.35,382.03,2025-12-21,Active
+1149,SKU-0149,First Aid Kit 149,Furniture,HealthSupply,Warehouse-B,563,84,443.63,1010.56,2025-05-02,Active
+1150,SKU-0150,Printer Paper 150,Stationery,Global Traders,Warehouse-E,571,50,349.53,831.18,2025-03-29,Active
+1151,SKU-0151,Speaker 151,Furniture,SafeWear,Warehouse-C,290,34,40.96,55.38,2026-05-15,Active
+1152,SKU-0152,Mechanical Keyboard 152,Stationery,HealthSupply,Warehouse-C,894,78,270.34,398.66,2025-06-25,Active
+1153,SKU-0153,Hammer 153,Stationery,FurniCo,Warehouse-B,527,39,128.28,231.54,2025-01-16,Active
+1154,SKU-0154,Safety Gloves 154,Tools,SafeWear,Warehouse-B,460,28,371.04,576.99,2026-03-20,Active
+1155,SKU-0155,Jacket 155,Tools,TechSource,Warehouse-D,163,71,415.27,738.66,2026-01-18,Active
+1156,SKU-0156,Safety Gloves 156,Medical,SafeWear,Warehouse-E,628,82,36.38,89.83,2026-01-09,Active
+1157,SKU-0157,Medical Mask 157,Stationery,TechSource,Warehouse-C,213,39,420.6,677.18,2026-05-19,Active
+1158,SKU-0158,Hammer 158,Furniture,FurniCo,Warehouse-D,799,57,292.14,588.01,2026-03-09,Active
+1159,SKU-0159,Office Chair 159,Stationery,Global Traders,Warehouse-B,861,61,312.39,380.9,2026-05-24,Active
+1160,SKU-0160,Notebook 160,Stationery,PaperPlus,Warehouse-B,759,74,156.73,224.41,2025-06-14,Active
+1161,SKU-0161,Printer Paper 161,Medical,FurniCo,Warehouse-D,528,74,56.96,115.9,2025-12-07,Active
+1162,SKU-0162,Hammer 162,Tools,BuildPro,Warehouse-D,468,39,58.35,143.54,2025-09-28,Active
+1163,SKU-0163,Notebook 163,Medical,BuildPro,Warehouse-D,205,50,392.59,685.05,2025-12-10,Active
+1164,SKU-0164,Medical Mask 164,Furniture,HealthSupply,Warehouse-A,935,11,197.64,442.38,2025-04-19,Active
+1165,SKU-0165,Medical Mask 165,Furniture,TechSource,Warehouse-E,666,24,221.39,321.62,2025-06-25,Active
+1166,SKU-0166,Coffee Beans 166,Food,SafeWear,Warehouse-D,43,26,255.24,601.04,2025-07-24,Active
+1167,SKU-0167,Speaker 167,Stationery,HealthSupply,Warehouse-D,903,34,208.64,304.8,2025-05-07,Active
+1168,SKU-0168,Tool Box 168,Food,BuildPro,Warehouse-A,294,49,334.53,525.28,2025-08-10,Active
+1169,SKU-0169,Safety Gloves 169,Automotive,PaperPlus,Warehouse-D,82,61,26.28,47.82,2025-06-17,Active
+1170,SKU-0170,First Aid Kit 170,Electronics,TechSource,Warehouse-C,247,23,158.53,227.41,2025-04-24,Active
+1171,SKU-0171,Jacket 171,Tools,BuildPro,Warehouse-A,807,79,91.15,148.96,2025-04-18,Active
+1172,SKU-0172,Tool Box 172,Medical,TechSource,Warehouse-D,533,95,380.38,757.96,2026-01-24,Active
+1173,SKU-0173,Headphones 173,Stationery,HealthSupply,Warehouse-B,533,62,345.1,495.77,2025-06-23,Active
+1174,SKU-0174,Car Battery 174,Electronics,PaperPlus,Warehouse-A,33,87,44.82,100.6,2026-05-27,Low Stock
+1175,SKU-0175,Hammer 175,Tools,HealthSupply,Warehouse-B,385,86,26.7,35.57,2025-04-10,Active
+1176,SKU-0176,Safety Gloves 176,Medical,FurniCo,Warehouse-C,883,10,336.07,518.08,2025-06-29,Active
+1177,SKU-0177,Speaker 177,Stationery,Global Traders,Warehouse-C,950,46,87.75,147.03,2025-04-14,Active
+1178,SKU-0178,Car Battery 178,Clothing,BuildPro,Warehouse-C,353,30,458.53,1002.05,2025-05-31,Active
+1179,SKU-0179,Printer Paper 179,Automotive,PaperPlus,Warehouse-D,673,46,309.26,375.75,2025-06-06,Active
+1180,SKU-0180,Hammer 180,Food,HealthSupply,Warehouse-B,771,76,300.22,746.17,2025-09-02,Active
+1181,SKU-0181,USB Hub 181,Food,Global Traders,Warehouse-A,535,47,114.74,264.92,2025-03-03,Active
+1182,SKU-0182,Printer Paper 182,Clothing,Global Traders,Warehouse-D,583,17,264.83,383.09,2026-02-18,Active
+1183,SKU-0183,USB Hub 183,Clothing,AutoParts Ltd,Warehouse-C,188,86,489.14,1076.25,2025-06-30,Active
+1184,SKU-0184,Safety Gloves 184,Electronics,Global Traders,Warehouse-D,724,15,455.83,775.77,2025-11-26,Active
+1185,SKU-0185,First Aid Kit 185,Electronics,TechSource,Warehouse-A,150,15,2.76,4.11,2026-05-12,Active
+1186,SKU-0186,Printer Paper 186,Electronics,HealthSupply,Warehouse-E,473,99,213.11,441.14,2025-07-07,Active
+1187,SKU-0187,Wireless Mouse 187,Stationery,AutoParts Ltd,Warehouse-B,606,49,425.77,660.23,2025-04-13,Active
+1188,SKU-0188,Desk Lamp 188,Food,BuildPro,Warehouse-B,19,11,363.85,554.26,2026-02-23,Active
+1189,SKU-0189,Wireless Mouse 189,Automotive,HealthSupply,Warehouse-C,360,84,400.13,918.68,2025-05-05,Active
+1190,SKU-0190,Safety Gloves 190,Electronics,HealthSupply,Warehouse-C,253,60,97.48,165.07,2026-02-28,Active
+1191,SKU-0191,Monitor 191,Automotive,FurniCo,Warehouse-E,389,95,91.33,212.98,2025-09-24,Active
+1192,SKU-0192,Headphones 192,Stationery,BuildPro,Warehouse-D,517,79,377.28,843.57,2026-03-22,Active
+1193,SKU-0193,Office Chair 193,Food,BuildPro,Warehouse-E,987,32,386.25,840.49,2025-12-11,Active
+1194,SKU-0194,Speaker 194,Stationery,SafeWear,Warehouse-D,123,60,372.46,678.32,2026-02-10,Active
+1195,SKU-0195,Car Battery 195,Furniture,FurniCo,Warehouse-D,918,68,220.54,463.59,2026-05-26,Active
+1196,SKU-0196,Coffee Beans 196,Tools,TechSource,Warehouse-A,51,86,81.22,165.13,2025-11-17,Low Stock
+1197,SKU-0197,Wireless Mouse 197,Tools,SafeWear,Warehouse-E,532,60,384.83,875.46,2025-03-06,Active
+1198,SKU-0198,Hammer 198,Stationery,SafeWear,Warehouse-C,246,72,49.7,89.88,2025-06-28,Active
+1199,SKU-0199,Car Battery 199,Furniture,Global Traders,Warehouse-C,739,81,149.8,218.26,2025-01-26,Active
+1200,SKU-0200,Coffee Beans 200,Clothing,AutoParts Ltd,Warehouse-E,912,65,364.63,607.48,2026-05-31,Active
+1201,SKU-0201,Headphones 201,Medical,PaperPlus,Warehouse-C,790,21,230.26,379.87,2025-12-08,Active
+1202,SKU-0202,Car Battery 202,Medical,TechSource,Warehouse-C,756,61,303.97,652.46,2026-04-20,Active
+1203,SKU-0203,Coffee Beans 203,Medical,SafeWear,Warehouse-E,836,19,19.86,28.96,2026-02-08,Active
+1204,SKU-0204,Printer Paper 204,Food,PaperPlus,Warehouse-C,579,64,497.69,1042.12,2025-11-13,Active
+1205,SKU-0205,Medical Mask 205,Automotive,Global Traders,Warehouse-E,117,69,478.99,849.28,2026-03-19,Active
+1206,SKU-0206,Printer Paper 206,Food,BuildPro,Warehouse-B,18,14,495.76,651.88,2025-12-12,Active
+1207,SKU-0207,USB Hub 207,Food,TechSource,Warehouse-B,502,82,483.85,1021.23,2026-05-22,Active
+1208,SKU-0208,Office Chair 208,Food,PaperPlus,Warehouse-B,47,15,182.1,294.21,2025-01-21,Active
+1209,SKU-0209,Coffee Beans 209,Clothing,HealthSupply,Warehouse-C,353,90,259.31,622.51,2025-03-09,Active
+1210,SKU-0210,Coffee Beans 210,Electronics,BuildPro,Warehouse-A,255,10,478.77,798.74,2026-02-03,Active
+1211,SKU-0211,Office Chair 211,Automotive,FurniCo,Warehouse-B,371,71,329.63,621.07,2025-02-07,Active
+1212,SKU-0212,Headphones 212,Food,Global Traders,Warehouse-E,858,13,286.97,451.07,2025-09-06,Active
+1213,SKU-0213,Mechanical Keyboard 213,Medical,BuildPro,Warehouse-C,306,28,17.27,39.65,2025-03-17,Active
+1214,SKU-0214,Wireless Mouse 214,Furniture,PaperPlus,Warehouse-D,638,50,162.06,359.23,2025-02-05,Active
+1215,SKU-0215,Speaker 215,Clothing,Global Traders,Warehouse-B,325,76,424.84,889.1,2026-01-05,Active
+1216,SKU-0216,Mechanical Keyboard 216,Clothing,BuildPro,Warehouse-C,764,54,163.32,232.75,2026-02-18,Active
+1217,SKU-0217,First Aid Kit 217,Food,BuildPro,Warehouse-C,881,93,192.61,339.52,2026-01-23,Active
+1218,SKU-0218,Medical Mask 218,Furniture,PaperPlus,Warehouse-D,793,80,451.73,670.95,2026-04-18,Active
+1219,SKU-0219,Tool Box 219,Furniture,Global Traders,Warehouse-E,356,13,114.71,143.89,2025-05-02,Active
+1220,SKU-0220,Monitor 220,Tools,BuildPro,Warehouse-C,427,86,357.33,780.91,2025-10-05,Active
+1221,SKU-0221,Hammer 221,Automotive,BuildPro,Warehouse-E,765,16,53.24,77.13,2026-01-25,Active
+1222,SKU-0222,First Aid Kit 222,Clothing,SafeWear,Warehouse-E,443,27,174.68,254.55,2026-01-15,Active
+1223,SKU-0223,Notebook 223,Electronics,SafeWear,Warehouse-A,516,58,162.16,302.54,2026-04-16,Active
+1224,SKU-0224,Car Battery 224,Stationery,FurniCo,Warehouse-E,444,13,236.34,587.09,2025-07-18,Active
+1225,SKU-0225,Wireless Mouse 225,Food,AutoParts Ltd,Warehouse-D,679,12,162.98,356.95,2025-09-07,Active
+1226,SKU-0226,Medical Mask 226,Food,TechSource,Warehouse-B,547,30,202.48,256.83,2025-02-16,Active
+1227,SKU-0227,Mechanical Keyboard 227,Automotive,BuildPro,Warehouse-D,368,16,217.6,506.12,2025-09-10,Active
+1228,SKU-0228,Speaker 228,Automotive,TechSource,Warehouse-C,705,83,256.2,557.59,2025-10-14,Active
+1229,SKU-0229,Safety Gloves 229,Clothing,FurniCo,Warehouse-A,588,63,207.39,514.85,2025-01-13,Active
+1230,SKU-0230,Car Battery 230,Food,BuildPro,Warehouse-B,751,50,156.92,229.5,2025-03-11,Active
+1231,SKU-0231,Speaker 231,Stationery,PaperPlus,Warehouse-D,651,43,342.05,581.53,2025-02-12,Active
+1232,SKU-0232,Jacket 232,Clothing,PaperPlus,Warehouse-D,333,94,471.01,910.48,2025-10-19,Active
+1233,SKU-0233,Monitor 233,Food,BuildPro,Warehouse-A,374,35,366.48,620.78,2026-04-18,Active
+1234,SKU-0234,Wireless Mouse 234,Food,AutoParts Ltd,Warehouse-D,171,74,18.82,31.67,2026-03-12,Active
+1235,SKU-0235,Hammer 235,Stationery,HealthSupply,Warehouse-B,232,39,100.79,148.92,2025-01-22,Active
+1236,SKU-0236,Tool Box 236,Stationery,FurniCo,Warehouse-B,305,21,117.48,256.22,2025-11-15,Active
+1237,SKU-0237,Notebook 237,Furniture,PaperPlus,Warehouse-E,410,36,479.14,820.36,2026-01-10,Active
+1238,SKU-0238,Jacket 238,Stationery,FurniCo,Warehouse-B,190,35,135.81,204.02,2025-10-23,Active
+1239,SKU-0239,Monitor 239,Electronics,Global Traders,Warehouse-E,206,97,393.24,711.18,2026-03-07,Active
+1240,SKU-0240,Hammer 240,Automotive,SafeWear,Warehouse-E,607,17,96.71,177.97,2026-02-17,Active
+1241,SKU-0241,Hammer 241,Electronics,TechSource,Warehouse-C,477,11,119.61,277.09,2026-05-18,Active
+1242,SKU-0242,Hammer 242,Automotive,SafeWear,Warehouse-C,742,96,446.51,845.82,2025-11-13,Active
+1243,SKU-0243,Hammer 243,Electronics,PaperPlus,Warehouse-A,814,80,40.38,89.87,2025-11-04,Active
+1244,SKU-0244,Printer Paper 244,Food,BuildPro,Warehouse-C,922,13,73.4,146.82,2025-04-03,Active
+1245,SKU-0245,Coffee Beans 245,Electronics,HealthSupply,Warehouse-E,136,31,52.34,78.79,2026-02-05,Active
+1246,SKU-0246,Car Battery 246,Electronics,Global Traders,Warehouse-D,503,32,51.58,116.1,2025-06-30,Active
+1247,SKU-0247,Desk Lamp 247,Electronics,SafeWear,Warehouse-A,249,39,370.6,475.02,2025-01-29,Active
+1248,SKU-0248,Medical Mask 248,Clothing,HealthSupply,Warehouse-C,253,92,386.94,861.13,2025-02-21,Active
+1249,SKU-0249,Office Chair 249,Medical,PaperPlus,Warehouse-A,451,94,322.25,714.84,2025-12-20,Active
+1250,SKU-0250,Desk Lamp 250,Stationery,SafeWear,Warehouse-C,747,89,208.34,408.13,2025-02-03,Active
+1251,SKU-0251,Hammer 251,Furniture,SafeWear,Warehouse-A,20,22,74.65,115.39,2026-02-10,Low Stock
+1252,SKU-0252,Monitor 252,Electronics,FurniCo,Warehouse-E,920,32,262.76,491.56,2025-07-20,Active
+1253,SKU-0253,Hammer 253,Stationery,TechSource,Warehouse-D,255,11,217.75,362.41,2026-03-10,Active
+1254,SKU-0254,Wireless Mouse 254,Tools,SafeWear,Warehouse-D,256,74,10.83,20.21,2025-08-21,Active
+1255,SKU-0255,Hammer 255,Medical,HealthSupply,Warehouse-C,219,18,348.29,707.53,2025-11-14,Active
+1256,SKU-0256,First Aid Kit 256,Furniture,SafeWear,Warehouse-C,528,55,181.5,381.28,2025-06-22,Active
+1257,SKU-0257,Speaker 257,Automotive,AutoParts Ltd,Warehouse-E,199,49,295.94,528.32,2025-04-19,Active
+1258,SKU-0258,Speaker 258,Furniture,BuildPro,Warehouse-C,189,75,231.39,310.43,2026-05-01,Active
+1259,SKU-0259,Printer Paper 259,Clothing,PaperPlus,Warehouse-A,271,85,113.93,159.42,2026-03-16,Active
+1260,SKU-0260,USB Hub 260,Stationery,AutoParts Ltd,Warehouse-A,676,54,322.4,572.39,2026-03-30,Active
+1261,SKU-0261,Hammer 261,Electronics,TechSource,Warehouse-C,567,51,104.57,203.83,2025-09-03,Active
+1262,SKU-0262,Car Battery 262,Electronics,HealthSupply,Warehouse-D,259,35,377.58,831.62,2025-02-19,Active
+1263,SKU-0263,Medical Mask 263,Tools,SafeWear,Warehouse-A,555,69,457.91,851.05,2025-01-25,Active
+1264,SKU-0264,Printer Paper 264,Electronics,SafeWear,Warehouse-A,641,32,424.07,778.18,2026-05-31,Active
+1265,SKU-0265,First Aid Kit 265,Food,Global Traders,Warehouse-C,181,57,45.24,70.07,2025-04-18,Active
+1266,SKU-0266,Headphones 266,Electronics,TechSource,Warehouse-A,88,49,473.16,577.29,2025-04-23,Active
+1267,SKU-0267,Desk Lamp 267,Medical,PaperPlus,Warehouse-E,259,68,414.97,725.77,2026-05-19,Active
+1268,SKU-0268,Medical Mask 268,Electronics,AutoParts Ltd,Warehouse-D,929,77,65.94,162.95,2026-04-27,Active
+1269,SKU-0269,Car Battery 269,Electronics,AutoParts Ltd,Warehouse-D,943,36,115.06,144.57,2025-09-26,Active
+1270,SKU-0270,Mechanical Keyboard 270,Clothing,FurniCo,Warehouse-D,978,43,435.51,690.5,2025-01-13,Active
+1271,SKU-0271,Desk Lamp 271,Tools,AutoParts Ltd,Warehouse-A,860,36,416.07,579.94,2025-03-16,Active
+1272,SKU-0272,Jacket 272,Electronics,FurniCo,Warehouse-C,638,97,78.99,100.4,2025-01-14,Active
+1273,SKU-0273,Wireless Mouse 273,Furniture,Global Traders,Warehouse-B,281,30,150.32,236.14,2025-05-23,Active
+1274,SKU-0274,Printer Paper 274,Furniture,TechSource,Warehouse-A,292,54,23.96,47.12,2025-04-10,Active
+1275,SKU-0275,Mechanical Keyboard 275,Electronics,Global Traders,Warehouse-D,708,42,454.13,1019.91,2025-08-13,Active
+1276,SKU-0276,Safety Gloves 276,Food,TechSource,Warehouse-E,564,20,429.19,973.99,2025-12-30,Active
+1277,SKU-0277,Notebook 277,Stationery,PaperPlus,Warehouse-C,50,46,343.98,420.34,2026-04-07,Active
+1278,SKU-0278,Desk Lamp 278,Automotive,BuildPro,Warehouse-D,813,91,469.42,615.62,2025-03-10,Active
+1279,SKU-0279,Desk Lamp 279,Clothing,BuildPro,Warehouse-E,443,94,430.41,924.2,2025-11-26,Active
+1280,SKU-0280,First Aid Kit 280,Clothing,AutoParts Ltd,Warehouse-E,907,76,335.35,491.45,2025-04-25,Active
+1281,SKU-0281,Medical Mask 281,Automotive,PaperPlus,Warehouse-E,991,46,272.47,647.68,2026-01-11,Active
+1282,SKU-0282,Desk Lamp 282,Stationery,HealthSupply,Warehouse-C,717,97,295.74,577.79,2025-12-30,Active
+1283,SKU-0283,Safety Gloves 283,Tools,AutoParts Ltd,Warehouse-E,956,47,376.63,700.52,2026-02-21,Active
+1284,SKU-0284,Wireless Mouse 284,Automotive,PaperPlus,Warehouse-D,380,11,374.8,613.82,2025-03-12,Active
+1285,SKU-0285,First Aid Kit 285,Clothing,Global Traders,Warehouse-B,549,56,271.44,458.45,2026-01-12,Active
+1286,SKU-0286,Desk Lamp 286,Food,AutoParts Ltd,Warehouse-B,624,28,493.22,656.86,2025-10-16,Active
+1287,SKU-0287,Speaker 287,Automotive,TechSource,Warehouse-A,908,23,348.88,755.08,2025-06-23,Active
+1288,SKU-0288,Wireless Mouse 288,Furniture,FurniCo,Warehouse-E,516,27,319.17,514.34,2025-02-07,Active
+1289,SKU-0289,Office Chair 289,Medical,HealthSupply,Warehouse-C,587,28,258.52,404.37,2025-06-04,Active
+1290,SKU-0290,USB Hub 290,Stationery,FurniCo,Warehouse-A,224,33,252.1,393.12,2025-04-21,Active
+1291,SKU-0291,Hammer 291,Automotive,BuildPro,Warehouse-E,811,81,284.24,450.92,2025-08-28,Active
+1292,SKU-0292,Medical Mask 292,Stationery,FurniCo,Warehouse-A,39,36,271.1,636.48,2026-03-05,Active
+1293,SKU-0293,Coffee Beans 293,Stationery,SafeWear,Warehouse-D,908,71,3.94,8.02,2025-07-02,Active
+1294,SKU-0294,First Aid Kit 294,Medical,TechSource,Warehouse-B,906,20,245.35,469.47,2025-10-07,Active
+1295,SKU-0295,Medical Mask 295,Clothing,SafeWear,Warehouse-B,596,57,1.01,1.79,2025-08-20,Active
+1296,SKU-0296,Medical Mask 296,Clothing,HealthSupply,Warehouse-A,136,79,81.85,138.04,2026-03-20,Active
+1297,SKU-0297,Printer Paper 297,Electronics,Global Traders,Warehouse-A,738,22,423.12,1047.37,2026-05-22,Active
+1298,SKU-0298,Wireless Mouse 298,Stationery,Global Traders,Warehouse-A,967,14,469.18,853.66,2025-11-23,Active
+1299,SKU-0299,Printer Paper 299,Stationery,BuildPro,Warehouse-B,632,50,465.47,621.54,2025-06-03,Active
+1300,SKU-0300,Speaker 300,Clothing,TechSource,Warehouse-C,589,81,178.35,327.71,2025-06-18,Active
+1301,SKU-0301,Jacket 301,Medical,Global Traders,Warehouse-D,392,22,127.15,202.3,2025-03-25,Active
+1302,SKU-0302,USB Hub 302,Electronics,TechSource,Warehouse-E,224,74,286.93,674.41,2025-09-16,Active
+1303,SKU-0303,Jacket 303,Clothing,PaperPlus,Warehouse-C,686,37,234.44,494.05,2025-12-01,Active
+1304,SKU-0304,Mechanical Keyboard 304,Electronics,FurniCo,Warehouse-A,873,72,112.14,149.1,2025-10-17,Active
+1305,SKU-0305,Monitor 305,Food,HealthSupply,Warehouse-D,973,97,495.73,994.32,2025-10-18,Active
+1306,SKU-0306,Car Battery 306,Furniture,FurniCo,Warehouse-D,303,60,1.61,2.51,2025-06-16,Active
+1307,SKU-0307,Coffee Beans 307,Food,FurniCo,Warehouse-A,243,15,131.39,169.34,2025-02-02,Active
+1308,SKU-0308,Headphones 308,Tools,FurniCo,Warehouse-C,100,80,222.36,470.06,2026-05-15,Active
+1309,SKU-0309,Speaker 309,Medical,PaperPlus,Warehouse-A,812,67,242.54,355.53,2025-08-13,Active
+1310,SKU-0310,Safety Gloves 310,Food,HealthSupply,Warehouse-D,881,28,36.16,89.15,2026-03-08,Active
+1311,SKU-0311,Monitor 311,Stationery,BuildPro,Warehouse-D,668,67,60.28,81.79,2026-04-04,Active
+1312,SKU-0312,Car Battery 312,Automotive,FurniCo,Warehouse-B,897,39,62.03,105.01,2026-05-28,Active
+1313,SKU-0313,Coffee Beans 313,Food,HealthSupply,Warehouse-B,767,56,305.72,631.89,2025-10-06,Active
+1314,SKU-0314,Office Chair 314,Electronics,PaperPlus,Warehouse-B,375,14,196.39,318.63,2025-11-13,Active
+1315,SKU-0315,Car Battery 315,Food,SafeWear,Warehouse-A,550,45,101.31,152.03,2025-01-19,Active
+1316,SKU-0316,Tool Box 316,Furniture,AutoParts Ltd,Warehouse-B,412,62,299.04,464.34,2026-02-12,Active
+1317,SKU-0317,Safety Gloves 317,Electronics,AutoParts Ltd,Warehouse-D,589,34,357.25,595.91,2026-05-26,Active
+1318,SKU-0318,Jacket 318,Furniture,Global Traders,Warehouse-B,304,76,5.08,11.18,2025-01-01,Active
+1319,SKU-0319,USB Hub 319,Tools,Global Traders,Warehouse-E,994,70,17.21,33.62,2026-02-26,Active
+1320,SKU-0320,Desk Lamp 320,Clothing,PaperPlus,Warehouse-E,884,80,405.84,882.6,2025-08-21,Active
+1321,SKU-0321,Wireless Mouse 321,Furniture,TechSource,Warehouse-C,621,92,450.61,1115.04,2025-05-11,Active
+1322,SKU-0322,Mechanical Keyboard 322,Tools,TechSource,Warehouse-C,714,93,399.88,480.42,2025-02-15,Active
+1323,SKU-0323,Desk Lamp 323,Furniture,SafeWear,Warehouse-D,630,47,63.86,119.9,2025-06-25,Active
+1324,SKU-0324,USB Hub 324,Tools,SafeWear,Warehouse-D,359,15,72.73,139.77,2025-09-06,Active
+1325,SKU-0325,Mechanical Keyboard 325,Furniture,Global Traders,Warehouse-E,737,10,309.62,669.58,2025-03-14,Active
+1326,SKU-0326,Hammer 326,Clothing,FurniCo,Warehouse-C,587,28,144.6,186.06,2026-01-14,Active
+1327,SKU-0327,First Aid Kit 327,Stationery,FurniCo,Warehouse-E,971,29,324.97,573.26,2025-05-13,Active
+1328,SKU-0328,Printer Paper 328,Clothing,PaperPlus,Warehouse-A,13,79,261.01,612.38,2025-01-16,Low Stock
+1329,SKU-0329,First Aid Kit 329,Stationery,FurniCo,Warehouse-C,555,70,56.69,96.45,2025-09-20,Active
+1330,SKU-0330,Medical Mask 330,Medical,AutoParts Ltd,Warehouse-D,190,47,404.2,501.98,2026-02-06,Active
+1331,SKU-0331,Car Battery 331,Clothing,HealthSupply,Warehouse-B,229,18,148.59,310.82,2025-08-22,Active
+1332,SKU-0332,Jacket 332,Furniture,BuildPro,Warehouse-D,68,17,325.95,439.67,2025-03-27,Active
+1333,SKU-0333,Desk Lamp 333,Food,SafeWear,Warehouse-A,493,39,121.57,250.18,2025-04-22,Active
+1334,SKU-0334,Monitor 334,Stationery,SafeWear,Warehouse-B,862,16,491.95,705.36,2025-10-20,Active
+1335,SKU-0335,Mechanical Keyboard 335,Food,HealthSupply,Warehouse-E,457,64,397.26,966.63,2025-10-24,Active
+1336,SKU-0336,Monitor 336,Food,HealthSupply,Warehouse-C,626,59,347.58,657.16,2026-02-12,Active
+1337,SKU-0337,Car Battery 337,Food,PaperPlus,Warehouse-C,810,65,468.81,947.71,2025-12-25,Active
+1338,SKU-0338,Notebook 338,Medical,FurniCo,Warehouse-D,323,70,483.5,984.7,2025-09-29,Active
+1339,SKU-0339,Desk Lamp 339,Electronics,Global Traders,Warehouse-A,229,83,132.77,321.27,2026-03-16,Active
+1340,SKU-0340,Headphones 340,Food,Global Traders,Warehouse-B,118,48,398.33,757.95,2026-02-06,Active
+1341,SKU-0341,First Aid Kit 341,Medical,SafeWear,Warehouse-E,292,45,479.76,835.34,2025-10-04,Active
+1342,SKU-0342,Wireless Mouse 342,Automotive,FurniCo,Warehouse-D,252,67,49.31,77.0,2025-12-07,Active
+1343,SKU-0343,Jacket 343,Electronics,PaperPlus,Warehouse-C,283,61,210.0,282.2,2025-10-17,Active
+1344,SKU-0344,Headphones 344,Furniture,BuildPro,Warehouse-D,211,20,249.57,534.69,2025-10-20,Active
+1345,SKU-0345,Medical Mask 345,Tools,FurniCo,Warehouse-E,843,31,264.99,354.01,2025-02-12,Active
+1346,SKU-0346,Desk Lamp 346,Clothing,PaperPlus,Warehouse-E,819,17,124.02,306.45,2025-11-09,Active
+1347,SKU-0347,Speaker 347,Automotive,SafeWear,Warehouse-A,963,79,110.78,154.76,2026-05-12,Active
+1348,SKU-0348,First Aid Kit 348,Clothing,HealthSupply,Warehouse-B,198,95,57.77,131.51,2025-04-02,Active
+1349,SKU-0349,Speaker 349,Furniture,SafeWear,Warehouse-B,64,98,179.29,218.11,2025-09-06,Low Stock
+1350,SKU-0350,Wireless Mouse 350,Tools,FurniCo,Warehouse-A,737,51,120.29,235.0,2026-01-06,Active
+1351,SKU-0351,Mechanical Keyboard 351,Clothing,TechSource,Warehouse-E,533,74,269.22,484.24,2026-05-04,Active
+1352,SKU-0352,Monitor 352,Automotive,TechSource,Warehouse-C,623,77,108.69,251.79,2025-02-22,Active
+1353,SKU-0353,Car Battery 353,Medical,HealthSupply,Warehouse-B,944,21,399.44,590.88,2026-02-13,Active
+1354,SKU-0354,Notebook 354,Food,PaperPlus,Warehouse-E,562,68,402.68,779.52,2026-02-06,Active
+1355,SKU-0355,Printer Paper 355,Tools,BuildPro,Warehouse-E,132,87,410.51,512.28,2026-02-11,Active
+1356,SKU-0356,Tool Box 356,Electronics,FurniCo,Warehouse-D,956,56,257.82,367.13,2025-01-23,Active
+1357,SKU-0357,Desk Lamp 357,Furniture,AutoParts Ltd,Warehouse-A,137,56,171.21,340.62,2025-02-16,Active
+1358,SKU-0358,Medical Mask 358,Furniture,HealthSupply,Warehouse-C,105,63,298.66,532.74,2025-06-19,Active
+1359,SKU-0359,First Aid Kit 359,Tools,TechSource,Warehouse-E,704,47,426.27,923.78,2025-10-24,Active
+1360,SKU-0360,Jacket 360,Electronics,FurniCo,Warehouse-D,287,66,289.04,469.0,2025-10-01,Active
+1361,SKU-0361,Printer Paper 361,Clothing,TechSource,Warehouse-B,100,43,101.31,215.56,2025-04-24,Active
+1362,SKU-0362,Desk Lamp 362,Electronics,FurniCo,Warehouse-D,742,86,347.17,855.25,2025-02-11,Active
+1363,SKU-0363,Notebook 363,Medical,TechSource,Warehouse-C,207,86,302.88,743.27,2025-10-08,Active
+1364,SKU-0364,Coffee Beans 364,Medical,FurniCo,Warehouse-D,234,28,102.92,222.82,2026-03-25,Active
+1365,SKU-0365,Car Battery 365,Medical,HealthSupply,Warehouse-D,131,76,220.12,500.57,2025-12-16,Active
+1366,SKU-0366,Desk Lamp 366,Electronics,HealthSupply,Warehouse-D,529,33,174.7,325.46,2025-02-04,Active
+1367,SKU-0367,Speaker 367,Clothing,HealthSupply,Warehouse-C,256,52,199.18,464.0,2025-08-03,Active
+1368,SKU-0368,Desk Lamp 368,Tools,AutoParts Ltd,Warehouse-E,71,83,119.41,236.07,2026-02-05,Low Stock
+1369,SKU-0369,USB Hub 369,Furniture,AutoParts Ltd,Warehouse-B,36,58,121.79,290.23,2025-07-29,Low Stock
+1370,SKU-0370,Headphones 370,Furniture,Global Traders,Warehouse-C,263,19,336.39,669.21,2025-08-11,Active
+1371,SKU-0371,Hammer 371,Stationery,SafeWear,Warehouse-B,447,75,27.35,46.62,2025-04-21,Active
+1372,SKU-0372,Headphones 372,Tools,TechSource,Warehouse-B,590,61,468.82,570.02,2025-11-13,Active
+1373,SKU-0373,Car Battery 373,Medical,HealthSupply,Warehouse-D,525,87,377.85,748.04,2025-08-21,Active
+1374,SKU-0374,Desk Lamp 374,Clothing,PaperPlus,Warehouse-C,47,35,433.66,828.6,2025-01-07,Active
+1375,SKU-0375,Headphones 375,Clothing,SafeWear,Warehouse-D,592,12,285.78,711.72,2025-02-03,Active
+1376,SKU-0376,Notebook 376,Tools,HealthSupply,Warehouse-E,283,77,365.07,439.75,2025-04-20,Active
+1377,SKU-0377,Tool Box 377,Electronics,Global Traders,Warehouse-B,581,37,461.18,977.0,2025-05-10,Active
+1378,SKU-0378,Safety Gloves 378,Medical,SafeWear,Warehouse-A,899,34,360.37,739.57,2025-02-03,Active
+1379,SKU-0379,Coffee Beans 379,Automotive,Global Traders,Warehouse-D,581,31,25.46,61.74,2025-04-05,Active
+1380,SKU-0380,Printer Paper 380,Stationery,TechSource,Warehouse-C,647,99,190.39,317.97,2026-03-27,Active
+1381,SKU-0381,Notebook 381,Medical,FurniCo,Warehouse-B,563,90,467.58,688.26,2025-04-17,Active
+1382,SKU-0382,Medical Mask 382,Clothing,AutoParts Ltd,Warehouse-D,581,60,164.46,259.97,2026-04-15,Active
+1383,SKU-0383,Printer Paper 383,Furniture,BuildPro,Warehouse-B,911,66,158.4,240.44,2026-03-09,Active
+1384,SKU-0384,Safety Gloves 384,Tools,SafeWear,Warehouse-C,933,73,495.56,1177.89,2025-08-24,Active
+1385,SKU-0385,Car Battery 385,Medical,HealthSupply,Warehouse-A,82,57,350.09,732.03,2025-02-26,Active
+1386,SKU-0386,Speaker 386,Food,FurniCo,Warehouse-C,458,20,160.77,261.64,2025-07-30,Active
+1387,SKU-0387,Monitor 387,Clothing,AutoParts Ltd,Warehouse-C,501,91,326.83,664.22,2025-04-10,Active
+1388,SKU-0388,Notebook 388,Tools,BuildPro,Warehouse-A,995,54,435.29,672.3,2026-01-07,Active
+1389,SKU-0389,Coffee Beans 389,Medical,AutoParts Ltd,Warehouse-E,169,16,307.26,705.82,2025-06-18,Active
+1390,SKU-0390,Desk Lamp 390,Stationery,PaperPlus,Warehouse-D,428,71,213.7,276.12,2025-05-14,Active
+1391,SKU-0391,Monitor 391,Furniture,FurniCo,Warehouse-D,341,89,425.25,626.49,2025-12-17,Active
+1392,SKU-0392,Desk Lamp 392,Electronics,Global Traders,Warehouse-B,378,81,238.29,335.96,2025-12-30,Active
+1393,SKU-0393,USB Hub 393,Electronics,Global Traders,Warehouse-D,906,68,231.17,408.52,2026-04-15,Active
+1394,SKU-0394,Hammer 394,Stationery,BuildPro,Warehouse-D,195,36,38.32,73.52,2025-10-17,Active
+1395,SKU-0395,Car Battery 395,Stationery,HealthSupply,Warehouse-C,625,42,369.32,774.6,2026-05-03,Active
+1396,SKU-0396,Medical Mask 396,Food,HealthSupply,Warehouse-B,317,81,426.47,637.62,2025-01-14,Active
+1397,SKU-0397,Printer Paper 397,Electronics,TechSource,Warehouse-C,738,67,180.74,253.98,2026-02-09,Active
+1398,SKU-0398,Notebook 398,Medical,PaperPlus,Warehouse-B,43,52,425.66,1017.57,2025-04-19,Low Stock
+1399,SKU-0399,Hammer 399,Automotive,FurniCo,Warehouse-D,21,13,127.18,162.21,2025-03-29,Active
+1400,SKU-0400,Wireless Mouse 400,Stationery,SafeWear,Warehouse-A,481,44,76.41,135.02,2025-01-21,Active
+1401,SKU-0401,Wireless Mouse 401,Medical,FurniCo,Warehouse-A,726,46,413.26,851.53,2026-02-19,Active
+1402,SKU-0402,Wireless Mouse 402,Medical,HealthSupply,Warehouse-C,58,17,453.77,851.29,2026-04-28,Active
+1403,SKU-0403,Safety Gloves 403,Medical,SafeWear,Warehouse-B,649,92,165.02,335.91,2025-08-04,Active
+1404,SKU-0404,Medical Mask 404,Furniture,Global Traders,Warehouse-E,735,86,454.42,745.64,2025-01-14,Active
+1405,SKU-0405,Monitor 405,Tools,TechSource,Warehouse-B,742,41,386.41,737.87,2025-01-17,Active
+1406,SKU-0406,Safety Gloves 406,Stationery,SafeWear,Warehouse-D,497,87,257.11,326.93,2025-11-12,Active
+1407,SKU-0407,Headphones 407,Stationery,Global Traders,Warehouse-A,317,16,57.92,102.59,2025-03-13,Active
+1408,SKU-0408,First Aid Kit 408,Medical,FurniCo,Warehouse-A,193,53,371.3,548.85,2025-06-26,Active
+1409,SKU-0409,Safety Gloves 409,Electronics,FurniCo,Warehouse-D,947,23,120.48,189.27,2025-05-02,Active
+1410,SKU-0410,Monitor 410,Automotive,FurniCo,Warehouse-E,260,63,182.46,346.13,2026-01-10,Active
+1411,SKU-0411,Mechanical Keyboard 411,Clothing,Global Traders,Warehouse-A,732,24,15.01,37.04,2026-04-19,Active
+1412,SKU-0412,Hammer 412,Furniture,TechSource,Warehouse-B,844,66,473.04,814.2,2025-03-06,Active
+1413,SKU-0413,Mechanical Keyboard 413,Tools,Global Traders,Warehouse-D,862,93,308.78,529.36,2025-11-22,Active
+1414,SKU-0414,Tool Box 414,Tools,FurniCo,Warehouse-C,510,23,498.97,686.43,2026-03-12,Active
+1415,SKU-0415,Hammer 415,Medical,AutoParts Ltd,Warehouse-A,802,28,118.62,165.85,2026-05-30,Active
+1416,SKU-0416,Office Chair 416,Medical,SafeWear,Warehouse-B,124,59,30.49,45.96,2026-05-20,Active
+1417,SKU-0417,Office Chair 417,Stationery,TechSource,Warehouse-D,817,67,430.47,623.65,2025-06-22,Active
+1418,SKU-0418,Mechanical Keyboard 418,Clothing,AutoParts Ltd,Warehouse-D,220,91,396.21,546.79,2025-10-04,Active
+1419,SKU-0419,Coffee Beans 419,Furniture,PaperPlus,Warehouse-A,106,25,489.37,659.83,2026-02-17,Active
+1420,SKU-0420,Speaker 420,Tools,FurniCo,Warehouse-D,903,100,101.17,223.36,2025-04-28,Active
+1421,SKU-0421,Printer Paper 421,Stationery,PaperPlus,Warehouse-B,311,47,67.56,145.75,2026-03-17,Active
+1422,SKU-0422,Notebook 422,Food,SafeWear,Warehouse-E,924,78,102.07,139.84,2025-07-08,Active
+1423,SKU-0423,Hammer 423,Clothing,SafeWear,Warehouse-C,615,95,99.81,235.18,2025-10-04,Active
+1424,SKU-0424,First Aid Kit 424,Stationery,BuildPro,Warehouse-A,360,87,449.2,595.02,2026-02-06,Active
+1425,SKU-0425,Hammer 425,Electronics,BuildPro,Warehouse-D,323,22,79.28,101.81,2025-08-06,Active
+1426,SKU-0426,Safety Gloves 426,Tools,FurniCo,Warehouse-A,924,80,4.38,6.19,2025-12-10,Active
+1427,SKU-0427,Safety Gloves 427,Furniture,BuildPro,Warehouse-E,931,23,308.06,491.42,2025-11-15,Active
+1428,SKU-0428,Office Chair 428,Electronics,PaperPlus,Warehouse-C,84,58,141.39,210.44,2026-03-05,Active
+1429,SKU-0429,Wireless Mouse 429,Electronics,AutoParts Ltd,Warehouse-C,238,55,169.53,334.39,2025-11-18,Active
+1430,SKU-0430,Speaker 430,Food,BuildPro,Warehouse-D,851,80,129.07,192.64,2025-06-02,Active
+1431,SKU-0431,Headphones 431,Stationery,BuildPro,Warehouse-A,204,35,161.98,398.59,2026-03-06,Active
+1432,SKU-0432,Notebook 432,Clothing,AutoParts Ltd,Warehouse-A,117,60,498.45,912.33,2025-09-23,Active
+1433,SKU-0433,Car Battery 433,Tools,Global Traders,Warehouse-A,293,58,423.62,740.69,2026-05-13,Active
+1434,SKU-0434,Car Battery 434,Furniture,PaperPlus,Warehouse-C,656,75,399.72,996.13,2025-04-26,Active
+1435,SKU-0435,Hammer 435,Clothing,AutoParts Ltd,Warehouse-B,149,95,428.32,714.97,2025-06-18,Active
+1436,SKU-0436,Coffee Beans 436,Food,HealthSupply,Warehouse-A,557,91,11.85,21.62,2026-04-17,Active
+1437,SKU-0437,Medical Mask 437,Medical,PaperPlus,Warehouse-D,423,86,304.35,475.87,2026-03-22,Active
+1438,SKU-0438,USB Hub 438,Automotive,TechSource,Warehouse-A,922,82,65.77,99.71,2026-02-25,Active
+1439,SKU-0439,Speaker 439,Stationery,AutoParts Ltd,Warehouse-A,2,28,182.86,455.5,2025-10-10,Low Stock
+1440,SKU-0440,Tool Box 440,Stationery,BuildPro,Warehouse-B,4,71,181.92,298.73,2025-11-18,Low Stock
+1441,SKU-0441,Printer Paper 441,Clothing,SafeWear,Warehouse-D,369,86,455.69,741.04,2026-03-12,Active
+1442,SKU-0442,Mechanical Keyboard 442,Medical,HealthSupply,Warehouse-C,193,17,118.5,197.25,2025-02-08,Active
+1443,SKU-0443,Wireless Mouse 443,Stationery,HealthSupply,Warehouse-D,464,58,462.57,1058.6,2026-05-31,Active
+1444,SKU-0444,Coffee Beans 444,Stationery,AutoParts Ltd,Warehouse-C,176,24,207.76,408.06,2025-04-25,Active
+1445,SKU-0445,Safety Gloves 445,Furniture,PaperPlus,Warehouse-E,102,85,399.47,493.69,2025-08-28,Active
+1446,SKU-0446,Wireless Mouse 446,Automotive,TechSource,Warehouse-C,401,82,176.9,396.27,2025-12-18,Active
+1447,SKU-0447,Medical Mask 447,Stationery,TechSource,Warehouse-E,662,56,11.93,21.39,2025-11-08,Active
+1448,SKU-0448,Desk Lamp 448,Electronics,FurniCo,Warehouse-C,766,12,80.44,162.56,2025-06-15,Active
+1449,SKU-0449,Printer Paper 449,Medical,FurniCo,Warehouse-C,569,11,361.15,744.17,2025-04-01,Active
+1450,SKU-0450,Hammer 450,Medical,Global Traders,Warehouse-E,665,23,154.42,302.27,2025-04-22,Active
+1451,SKU-0451,Headphones 451,Furniture,FurniCo,Warehouse-B,991,78,149.29,294.15,2025-08-06,Active
+1452,SKU-0452,Wireless Mouse 452,Stationery,FurniCo,Warehouse-A,492,88,47.33,72.34,2025-08-09,Active
+1453,SKU-0453,Mechanical Keyboard 453,Medical,FurniCo,Warehouse-A,896,81,337.91,518.31,2025-12-01,Active
+1454,SKU-0454,Jacket 454,Tools,Global Traders,Warehouse-E,546,64,28.39,59.78,2025-06-22,Active
+1455,SKU-0455,Notebook 455,Food,TechSource,Warehouse-B,59,16,210.64,385.58,2026-01-23,Active
+1456,SKU-0456,Jacket 456,Clothing,HealthSupply,Warehouse-E,841,35,14.85,17.96,2025-09-28,Active
+1457,SKU-0457,Wireless Mouse 457,Stationery,AutoParts Ltd,Warehouse-B,170,45,329.47,699.73,2026-02-17,Active
+1458,SKU-0458,Jacket 458,Tools,TechSource,Warehouse-A,927,40,398.76,881.84,2025-02-17,Active
+1459,SKU-0459,Coffee Beans 459,Automotive,Global Traders,Warehouse-D,30,94,386.15,939.34,2025-12-11,Low Stock
+1460,SKU-0460,First Aid Kit 460,Clothing,AutoParts Ltd,Warehouse-B,713,16,450.94,995.34,2025-06-16,Active
+1461,SKU-0461,Tool Box 461,Medical,HealthSupply,Warehouse-E,518,34,237.65,433.09,2025-05-29,Active
+1462,SKU-0462,Car Battery 462,Automotive,PaperPlus,Warehouse-B,628,50,230.63,360.58,2025-04-09,Active
+1463,SKU-0463,Speaker 463,Stationery,AutoParts Ltd,Warehouse-D,863,72,228.61,379.16,2026-05-16,Active
+1464,SKU-0464,Notebook 464,Clothing,FurniCo,Warehouse-B,246,15,225.36,280.02,2025-04-28,Active
+1465,SKU-0465,First Aid Kit 465,Stationery,SafeWear,Warehouse-B,489,63,453.19,684.29,2025-01-30,Active
+1466,SKU-0466,Medical Mask 466,Medical,SafeWear,Warehouse-E,829,50,145.67,355.32,2025-10-22,Active
+1467,SKU-0467,Safety Gloves 467,Food,BuildPro,Warehouse-B,574,41,157.22,196.15,2025-07-22,Active
+1468,SKU-0468,Monitor 468,Tools,Global Traders,Warehouse-E,672,48,440.84,930.8,2026-03-10,Active
+1469,SKU-0469,Safety Gloves 469,Stationery,FurniCo,Warehouse-A,289,62,164.89,328.07,2025-01-20,Active
+1470,SKU-0470,Medical Mask 470,Clothing,FurniCo,Warehouse-D,630,28,157.47,302.54,2026-03-10,Active
+1471,SKU-0471,Speaker 471,Tools,Global Traders,Warehouse-D,189,52,204.75,411.77,2025-03-19,Active
+1472,SKU-0472,Office Chair 472,Furniture,PaperPlus,Warehouse-A,4,68,367.49,538.1,2026-03-13,Low Stock
+1473,SKU-0473,Safety Gloves 473,Clothing,HealthSupply,Warehouse-E,731,76,341.06,614.8,2025-11-26,Active
+1474,SKU-0474,Coffee Beans 474,Food,HealthSupply,Warehouse-C,20,51,369.9,663.07,2025-04-26,Low Stock
+1475,SKU-0475,Office Chair 475,Electronics,FurniCo,Warehouse-A,78,14,74.23,113.94,2025-10-03,Active
+1476,SKU-0476,Desk Lamp 476,Stationery,TechSource,Warehouse-C,746,88,269.93,633.6,2025-05-13,Active
+1477,SKU-0477,Desk Lamp 477,Furniture,AutoParts Ltd,Warehouse-E,264,84,435.2,641.16,2025-06-12,Active
+1478,SKU-0478,USB Hub 478,Food,TechSource,Warehouse-A,568,68,147.12,195.32,2026-03-03,Active
+1479,SKU-0479,First Aid Kit 479,Electronics,SafeWear,Warehouse-C,681,95,65.27,122.73,2025-03-19,Active
+1480,SKU-0480,USB Hub 480,Tools,HealthSupply,Warehouse-A,633,83,63.8,156.89,2026-02-19,Active
+1481,SKU-0481,Speaker 481,Automotive,PaperPlus,Warehouse-E,229,42,2.33,2.88,2025-12-02,Active
+1482,SKU-0482,Safety Gloves 482,Tools,AutoParts Ltd,Warehouse-A,497,44,2.64,4.69,2025-01-09,Active
+1483,SKU-0483,Headphones 483,Clothing,FurniCo,Warehouse-B,282,71,117.98,247.41,2026-03-20,Active
+1484,SKU-0484,First Aid Kit 484,Medical,AutoParts Ltd,Warehouse-C,519,10,55.38,105.3,2025-11-05,Active
+1485,SKU-0485,USB Hub 485,Furniture,TechSource,Warehouse-A,437,44,132.36,268.99,2025-04-28,Active
+1486,SKU-0486,Tool Box 486,Food,FurniCo,Warehouse-C,303,17,137.69,304.19,2026-03-18,Active
+1487,SKU-0487,Mechanical Keyboard 487,Stationery,SafeWear,Warehouse-B,286,91,430.83,918.26,2026-04-04,Active
+1488,SKU-0488,Speaker 488,Clothing,BuildPro,Warehouse-D,8,87,417.47,1035.76,2026-02-04,Low Stock
+1489,SKU-0489,Wireless Mouse 489,Food,PaperPlus,Warehouse-E,113,15,102.02,164.86,2025-10-19,Active
+1490,SKU-0490,Jacket 490,Tools,Global Traders,Warehouse-A,745,42,276.06,689.35,2025-11-05,Active
+1491,SKU-0491,Mechanical Keyboard 491,Food,PaperPlus,Warehouse-C,727,16,489.61,1220.85,2025-07-15,Active
+1492,SKU-0492,Medical Mask 492,Furniture,SafeWear,Warehouse-A,201,87,498.64,1002.3,2025-10-22,Active
+1493,SKU-0493,Notebook 493,Medical,BuildPro,Warehouse-C,949,18,287.14,413.45,2026-02-06,Active
+1494,SKU-0494,USB Hub 494,Medical,SafeWear,Warehouse-C,838,98,57.01,116.35,2026-01-06,Active
+1495,SKU-0495,Headphones 495,Automotive,HealthSupply,Warehouse-E,892,66,282.67,447.1,2025-09-20,Active
+1496,SKU-0496,Jacket 496,Automotive,SafeWear,Warehouse-C,610,33,34.51,46.19,2025-09-15,Active
+1497,SKU-0497,Hammer 497,Electronics,TechSource,Warehouse-B,556,83,351.27,812.52,2025-03-11,Active
+1498,SKU-0498,Headphones 498,Tools,AutoParts Ltd,Warehouse-C,8,27,327.94,637.09,2025-07-11,Low Stock
+1499,SKU-0499,Speaker 499,Clothing,HealthSupply,Warehouse-A,951,74,434.13,722.49,2026-04-17,Active
+1500,SKU-0500,Wireless Mouse 500,Furniture,BuildPro,Warehouse-B,448,24,496.97,840.69,2025-12-21,Active

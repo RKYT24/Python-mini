@@ -1,0 +1,14 @@
+===== InvMS Activity Log =====
+
+[2026-06-15 14:17:09]
+Action  : DATABASE BACKUP
+Details : backups\inventory_20260615_141709.db
+------------------------------------------------------------
+[2026-06-15 14:27:02]
+Action  : DELETE RECORD
+Details : Table=inventory_500 | ID=2
+------------------------------------------------------------
+[2026-06-15 14:27:22]
+Action  : EXPORT CSV
+Details : Table=inventory_500 | File=R:/Codezzz/Projects/InvMS/csv_resources/inventory_500_dl.csv
+------------------------------------------------------------

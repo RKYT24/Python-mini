@@ -1,0 +1,11 @@
+inv_no,product,type,brand,model,quantity,unit,price,location,status,remarks
+1001,HP LaserJet Printer,Electronics,HP,LaserJet 1020,3,pcs,12500.00,IT Room,Active,
+1002,Dell Laptop,Electronics,Dell,Inspiron 15,5,pcs,45000.00,Store Room,Active,
+1003,Office Chair,Furniture,Godrej,Ergonomic Pro,12,pcs,8500.00,Ground Floor,Active,
+1004,A4 Paper Ream,Stationery,ITC,Double A,200,pcs,250.00,Supply Closet,Active,
+1005,UPS 600VA,Electronics,APC,Back-UPS 600,4,pcs,3200.00,IT Room,Low Stock,Reorder needed
+1006,Whiteboard,Furniture,,120x90 cm,2,pcs,2200.00,Conference Room,Active,
+1007,USB Hub 4-Port,Electronics,TP-Link,UH400,8,pcs,799.00,IT Room,Active,
+1008,Toner Cartridge,Consumable,HP,CF217A,2,pcs,1800.00,Supply Closet,Low Stock,Order pending
+1009,Extension Cord 6m,Electronics,Anchor,,10,pcs,450.00,Electrical Store,Active,
+1010,Network Switch 24P,Electronics,TP-Link,TL-SG1024D,1,pcs,7500.00,Server Room,Active,
